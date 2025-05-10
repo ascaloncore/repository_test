@@ -1,5 +1,2 @@
 # repository_test
-test
-
-
-testend
+this is Progate lesson of HTML/CSS
